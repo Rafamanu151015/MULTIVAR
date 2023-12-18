@@ -1,0 +1,26 @@
+N_Local,Local,Data ,subbacia,altitude,largura,profundidade,velocidade,condutividade,turbidez,oxigenio_dissolvido,ph
+negro31,Afl_Cor_Alcantilado,17/5/2019,Negro,220,1.9,0.12,0.32,134,14.1,6.63,7.17
+negro32,Afl_Cor_Alcantilado,17/5/2019,Negro,232,2.58,0.3,0.26,27,16.2,4.31,7.29
+negro43,Afl_Cor_Garimpo,22/5/2019,Negro,334,6.1,0.15,0.31,21,0,4.29,6.88
+negro17,Afl_Cor_Pocao,15/5/2019,Negro,298,2.5,0.18,0.24,39,1.9,6.38,6.82
+negro46,Corr. Agua_branca,23/5/2019,Negro,185,2.04,0.3,0.5,12,0.5,4.76,5.04
+negro30,Corr. Alcantilado,17/5/2019,Negro,203,7.36,0.28,0.85,41,1.9,4.1,6.48
+negro33,Corr. Alcantilado,17/5/2019,Negro,249,11.2,0.2,0.53,40,0.1,6.65,7.21
+negro36,Corr. Baguacu,21/5/2019,Negro,345,3.9,0.12,0.29,36,5.6,6.77,6.84
+negro15,Corr. Bamdeira,15/5/2019,Negro,258,6,0.41,0.22,7,0,2.21,4.82
+APA11,Corr. Azul,13/5/2015,Apa,171,2.1,0.31,0.43,60,0.3,9.02,5.84
+APA6,Corr. Barreiro,30/4/2015,Apa,233,2.54,0.2,0.41,22,0.01,8.43,5.57
+APA49,Corr. Boa Sorte,19/8/2016,Apa,202,4.5,0.3,0.98,587,20.3,6.59,7.5
+APA21,Corr. Capey e2,14/10/2015,Apa,228,3.1,0.76,0.46,397,3.7,5.96,7.09
+APA15,Corr. Capi-Y,14/5/2015,Apa,189,3.75,0.75,0.42,434,0.01,7.31,8.39
+APA45,Corr. Estelita,18/8/2016,Apa,671,20.25,0.35,0.39,210,8.5,6.85,6.37
+APA46,Corr. Estelita,18/8/2016,Apa,366,1.8,0.28,0.19,1030,5.6,4.07,7.53
+APA19,Corr. Estero Grande,15/5/2015,Apa,244,2.25,0.38,0.48,430,3,7.68,8.73
+BIOTA8,Afl_Formoso,8/1/2014,Miranda,285,12,0.45,0.74,338.00,10.40,5.00,7.95
+BIOTA10,Afl_Rverde,9/1/2014,Miranda,266,2.4,0.21,0.48,52.00,49.70,5.95,7.30
+BIOTA5,Areia,7/1/2014,Miranda,328,11.46,0.63,0.45,21.00,8.00,6.14,6.65
+BIOTA46,Biota_36_ Olaria,15/3/2017,Miranda,460,3,0.54,0.43,509,0,8.9,7.38
+BIOTA58,Biota_39,16/3/2017,Miranda,198,7.2,0.39,1.03,23,5.4,7.9,6.78
+BIOTA11,Cachoeirinha,9/1/2014,Miranda,281,4.5,0.85,0.28,28.00,28.80,6.44,6.51
+BIOTA6,Prata,8/1/2014,Miranda,269,12.6,1.28,0.50,341.00,14.20,6.57,8.01
+BIOTA3,Preto,7/1/2014,Miranda,323,4.5,0.17,0.30,78.00,594.00,6.10,6.62
